@@ -1,0 +1,786 @@
+Snapshots 
+Average waiting people = (Total people coming into queue)/(Total buses arrived at the stop)
+
+
+Snapshot at System Clock: 3600
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 139
+Total people in Queue: 297
+Total buses that arrived: 1
+People still in Queue: 139
+Average Waiting People: 297
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 284
+Total people in Queue: 287
+Total buses that arrived: 1
+People still in Queue: 284
+Average Waiting People: 287
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 59
+Total people in Queue: 305
+Total buses that arrived: 1
+People still in Queue: 59
+Average Waiting People: 305
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 260
+Total people in Queue: 308
+Total buses that arrived: 2
+People still in Queue: 257
+Average Waiting People: 154
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 162
+Total people in Queue: 288
+Total buses that arrived: 1
+People still in Queue: 162
+Average Waiting People: 288
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 160
+Total people in Queue: 330
+Total buses that arrived: 2
+People still in Queue: 157
+Average Waiting People: 165
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 209
+Total people in Queue: 298
+Total buses that arrived: 1
+People still in Queue: 209
+Average Waiting People: 298
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 86
+Total people in Queue: 297
+Total buses that arrived: 2
+People still in Queue: 86
+Average Waiting People: 148
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 208
+Total people in Queue: 289
+Total buses that arrived: 1
+People still in Queue: 208
+Average Waiting People: 289
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 0
+Maximum Waiting People: 29
+Total people in Queue: 266
+Total buses that arrived: 2
+People still in Queue: 29
+Average Waiting People: 133
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 8
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 10
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
+
+
+Snapshot at System Clock: 7200
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 61
+Maximum Waiting People: 64
+Total people in Queue: 281
+Total buses that arrived: 0
+People still in Queue: 60
+Average Waiting People: 281
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 285
+Maximum Waiting People: 596
+Total people in Queue: 312
+Total buses that arrived: 0
+People still in Queue: 596
+Average Waiting People: 312
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 60
+Maximum Waiting People: 373
+Total people in Queue: 314
+Total buses that arrived: 0
+People still in Queue: 373
+Average Waiting People: 314
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 177
+Maximum Waiting People: 180
+Total people in Queue: 279
+Total buses that arrived: 0
+People still in Queue: 176
+Average Waiting People: 279
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 163
+Maximum Waiting People: 452
+Total people in Queue: 290
+Total buses that arrived: 0
+People still in Queue: 452
+Average Waiting People: 290
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 83
+Maximum Waiting People: 87
+Total people in Queue: 290
+Total buses that arrived: 0
+People still in Queue: 87
+Average Waiting People: 290
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 210
+Maximum Waiting People: 527
+Total people in Queue: 318
+Total buses that arrived: 0
+People still in Queue: 527
+Average Waiting People: 318
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 18
+Maximum Waiting People: 24
+Total people in Queue: 296
+Total buses that arrived: 0
+People still in Queue: 22
+Average Waiting People: 296
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 209
+Maximum Waiting People: 511
+Total people in Queue: 303
+Total buses that arrived: 0
+People still in Queue: 511
+Average Waiting People: 303
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1
+Maximum Waiting People: 132
+Total people in Queue: 339
+Total buses that arrived: 0
+People still in Queue: 132
+Average Waiting People: 339
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 8
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is on the way to the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
+
+
+Snapshot at System Clock: 10800
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 19
+Maximum Waiting People: 32
+Total people in Queue: 319
+Total buses that arrived: 0
+People still in Queue: 19
+Average Waiting People: 319
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 597
+Maximum Waiting People: 869
+Total people in Queue: 273
+Total buses that arrived: 0
+People still in Queue: 869
+Average Waiting People: 273
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 374
+Maximum Waiting People: 664
+Total people in Queue: 291
+Total buses that arrived: 0
+People still in Queue: 664
+Average Waiting People: 291
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 127
+Maximum Waiting People: 128
+Total people in Queue: 311
+Total buses that arrived: 0
+People still in Queue: 127
+Average Waiting People: 311
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 453
+Maximum Waiting People: 784
+Total people in Queue: 332
+Total buses that arrived: 0
+People still in Queue: 784
+Average Waiting People: 332
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 15
+Maximum Waiting People: 17
+Total people in Queue: 290
+Total buses that arrived: 0
+People still in Queue: 17
+Average Waiting People: 290
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 528
+Maximum Waiting People: 769
+Total people in Queue: 242
+Total buses that arrived: 0
+People still in Queue: 769
+Average Waiting People: 242
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1
+Maximum Waiting People: 161
+Total people in Queue: 294
+Total buses that arrived: 0
+People still in Queue: 161
+Average Waiting People: 294
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 512
+Maximum Waiting People: 656
+Total people in Queue: 320
+Total buses that arrived: 1
+People still in Queue: 656
+Average Waiting People: 320
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 133
+Maximum Waiting People: 429
+Total people in Queue: 297
+Total buses that arrived: 0
+People still in Queue: 429
+Average Waiting People: 297
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
+
+
+Snapshot at System Clock: 14400
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1
+Maximum Waiting People: 217
+Total people in Queue: 315
+Total buses that arrived: 1
+People still in Queue: 217
+Average Waiting People: 315
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 870
+Maximum Waiting People: 952
+Total people in Queue: 294
+Total buses that arrived: 1
+People still in Queue: 950
+Average Waiting People: 294
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 665
+Maximum Waiting People: 1001
+Total people in Queue: 337
+Total buses that arrived: 0
+People still in Queue: 1001
+Average Waiting People: 337
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 50
+Maximum Waiting People: 51
+Total people in Queue: 284
+Total buses that arrived: 0
+People still in Queue: 51
+Average Waiting People: 284
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 785
+Maximum Waiting People: 1094
+Total people in Queue: 310
+Total buses that arrived: 0
+People still in Queue: 1094
+Average Waiting People: 310
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1
+Maximum Waiting People: 282
+Total people in Queue: 303
+Total buses that arrived: 0
+People still in Queue: 282
+Average Waiting People: 303
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 770
+Maximum Waiting People: 776
+Total people in Queue: 298
+Total buses that arrived: 1
+People still in Queue: 775
+Average Waiting People: 298
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 162
+Maximum Waiting People: 452
+Total people in Queue: 291
+Total buses that arrived: 0
+People still in Queue: 452
+Average Waiting People: 291
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 589
+Maximum Waiting People: 593
+Total people in Queue: 293
+Total buses that arrived: 0
+People still in Queue: 589
+Average Waiting People: 293
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 430
+Maximum Waiting People: 764
+Total people in Queue: 335
+Total buses that arrived: 0
+People still in Queue: 764
+Average Waiting People: 335
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+
+Snapshot at System Clock: 18000
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 218
+Maximum Waiting People: 515
+Total people in Queue: 298
+Total buses that arrived: 0
+People still in Queue: 515
+Average Waiting People: 298
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 884
+Maximum Waiting People: 889
+Total people in Queue: 295
+Total buses that arrived: 0
+People still in Queue: 885
+Average Waiting People: 295
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1002
+Maximum Waiting People: 1292
+Total people in Queue: 291
+Total buses that arrived: 0
+People still in Queue: 1292
+Average Waiting People: 291
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1
+Maximum Waiting People: 126
+Total people in Queue: 295
+Total buses that arrived: 0
+People still in Queue: 126
+Average Waiting People: 295
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1095
+Maximum Waiting People: 1265
+Total people in Queue: 278
+Total buses that arrived: 1
+People still in Queue: 1262
+Average Waiting People: 278
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 283
+Maximum Waiting People: 592
+Total people in Queue: 310
+Total buses that arrived: 0
+People still in Queue: 592
+Average Waiting People: 310
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 706
+Maximum Waiting People: 715
+Total people in Queue: 291
+Total buses that arrived: 0
+People still in Queue: 706
+Average Waiting People: 291
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 453
+Maximum Waiting People: 744
+Total people in Queue: 292
+Total buses that arrived: 0
+People still in Queue: 744
+Average Waiting People: 292
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 539
+Maximum Waiting People: 543
+Total people in Queue: 314
+Total buses that arrived: 0
+People still in Queue: 543
+Average Waiting People: 314
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 765
+Maximum Waiting People: 1059
+Total people in Queue: 295
+Total buses that arrived: 0
+People still in Queue: 1059
+Average Waiting People: 295
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+
+Snapshot at System Clock: 21600
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 516
+Maximum Waiting People: 827
+Total people in Queue: 312
+Total buses that arrived: 0
+People still in Queue: 827
+Average Waiting People: 312
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 832
+Maximum Waiting People: 836
+Total people in Queue: 311
+Total buses that arrived: 0
+People still in Queue: 836
+Average Waiting People: 311
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1293
+Maximum Waiting People: 1593
+Total people in Queue: 301
+Total buses that arrived: 0
+People still in Queue: 1593
+Average Waiting People: 301
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 127
+Maximum Waiting People: 421
+Total people in Queue: 295
+Total buses that arrived: 0
+People still in Queue: 421
+Average Waiting People: 295
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1217
+Maximum Waiting People: 1219
+Total people in Queue: 316
+Total buses that arrived: 0
+People still in Queue: 1218
+Average Waiting People: 316
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 593
+Maximum Waiting People: 884
+Total people in Queue: 292
+Total buses that arrived: 0
+People still in Queue: 884
+Average Waiting People: 292
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 645
+Maximum Waiting People: 646
+Total people in Queue: 300
+Total buses that arrived: 0
+People still in Queue: 646
+Average Waiting People: 300
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 745
+Maximum Waiting People: 1043
+Total people in Queue: 299
+Total buses that arrived: 0
+People still in Queue: 1043
+Average Waiting People: 299
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 488
+Maximum Waiting People: 493
+Total people in Queue: 310
+Total buses that arrived: 0
+People still in Queue: 493
+Average Waiting People: 310
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1060
+Maximum Waiting People: 1345
+Total people in Queue: 286
+Total buses that arrived: 0
+People still in Queue: 1345
+Average Waiting People: 286
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+
+Snapshot at System Clock: 25200
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 828
+Maximum Waiting People: 1102
+Total people in Queue: 275
+Total buses that arrived: 0
+People still in Queue: 1102
+Average Waiting People: 275
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 790
+Maximum Waiting People: 795
+Total people in Queue: 319
+Total buses that arrived: 0
+People still in Queue: 795
+Average Waiting People: 319
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1594
+Maximum Waiting People: 1892
+Total people in Queue: 299
+Total buses that arrived: 0
+People still in Queue: 1892
+Average Waiting People: 299
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 422
+Maximum Waiting People: 740
+Total people in Queue: 319
+Total buses that arrived: 0
+People still in Queue: 740
+Average Waiting People: 319
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1147
+Maximum Waiting People: 1153
+Total people in Queue: 294
+Total buses that arrived: 0
+People still in Queue: 1152
+Average Waiting People: 294
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 885
+Maximum Waiting People: 1203
+Total people in Queue: 319
+Total buses that arrived: 0
+People still in Queue: 1203
+Average Waiting People: 319
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 559
+Maximum Waiting People: 560
+Total people in Queue: 274
+Total buses that arrived: 0
+People still in Queue: 560
+Average Waiting People: 274
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1044
+Maximum Waiting People: 1326
+Total people in Queue: 283
+Total buses that arrived: 0
+People still in Queue: 1326
+Average Waiting People: 283
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 449
+Maximum Waiting People: 450
+Total people in Queue: 315
+Total buses that arrived: 0
+People still in Queue: 448
+Average Waiting People: 315
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1346
+Maximum Waiting People: 1643
+Total people in Queue: 298
+Total buses that arrived: 0
+People still in Queue: 1643
+Average Waiting People: 298
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+
+Snapshot at System Clock: 28800
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 1 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1103
+Maximum Waiting People: 1436
+Total people in Queue: 334
+Total buses that arrived: 0
+People still in Queue: 1436
+Average Waiting People: 334
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 2 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 741
+Maximum Waiting People: 746
+Total people in Queue: 304
+Total buses that arrived: 0
+People still in Queue: 739
+Average Waiting People: 304
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 3 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1893
+Maximum Waiting People: 2224
+Total people in Queue: 332
+Total buses that arrived: 0
+People still in Queue: 2224
+Average Waiting People: 332
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 4 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 741
+Maximum Waiting People: 1030
+Total people in Queue: 290
+Total buses that arrived: 0
+People still in Queue: 1030
+Average Waiting People: 290
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 5 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1067
+Maximum Waiting People: 1069
+Total people in Queue: 277
+Total buses that arrived: 0
+People still in Queue: 1069
+Average Waiting People: 277
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 6 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1204
+Maximum Waiting People: 1479
+Total people in Queue: 276
+Total buses that arrived: 0
+People still in Queue: 1479
+Average Waiting People: 276
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 7 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 523
+Maximum Waiting People: 531
+Total people in Queue: 331
+Total buses that arrived: 0
+People still in Queue: 531
+Average Waiting People: 331
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 8 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1327
+Maximum Waiting People: 1632
+Total people in Queue: 306
+Total buses that arrived: 0
+People still in Queue: 1632
+Average Waiting People: 306
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 9 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 393
+Maximum Waiting People: 394
+Total people in Queue: 305
+Total buses that arrived: 0
+People still in Queue: 393
+Average Waiting People: 305
+
+ * * * * * * * * * * * * * * * * * * * * Stop: 10 * * * * * * * * * * * * * * * * * * * * 
+Minimum Waiting People: 1644
+Maximum Waiting People: 1924
+Total people in Queue: 281
+Total buses that arrived: 0
+People still in Queue: 1924
+Average Waiting People: 281
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is in waiting queue at stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
